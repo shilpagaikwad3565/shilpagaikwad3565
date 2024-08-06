@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shilpa Gaikwad</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/ZSZTGUtpQr0u7cfveB/200w.gif?cid=8d8c0358axhgivgncc7s5pgcx7j59m48r493khqwquunvhag&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV2YXdycHVscHh0cjQyMTkxeDI5enBvOGV1Nms0dGx0enEyeDU2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBJVxherQLAGaK7NYV/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpagaikwad3565&label=Profile%20views&color=0e75b6&style=flat" alt="shilpagaikwad3565" /> </p>
 
