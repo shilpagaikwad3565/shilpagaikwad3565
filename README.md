@@ -1,14 +1,16 @@
+
+
 <h1 align="center">Hi 👋, I'm Shilpa Gaikwad</h1>
-<h3 align="center">A passionate java full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV2YXdycHVscHh0cjQyMTkxeDI5enBvOGV1Nms0dGx0enEyeDU2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BBJVxherQLAGaK7NYV/giphy.webp">
+<h3 align="center">I'm learniing java full stack at Analytiq Learning </h3>
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/91/8d/cf/918dcf743df1f2a4086246ef6afc9b0c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpagaikwad3565&label=Profile%20views&color=0e75b6&style=flat" alt="shilpagaikwad3565" /> </p>
 
-- 🌱 I’m currently learning **Java full Stack**
+- 🌱 I’m currently learning **Java full Stack**<br>
 
-- 💬 Ask me about **front end ,Database**
+- 💬 Ask me about **front end ,Database**<br>
 
-- 📫 How to reach me **shilpagaikwad79879@gmail.com**
+- 📫 How to reach me **shilpagaikwad79879@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
