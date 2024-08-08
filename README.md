@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shilpa Gaikwad</h1>
 <h3 align="center">I'm learniing java full stack at Analytiq Learning </h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/91/8d/cf/918dcf743df1f2a4086246ef6afc9b0c.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/78/c3/75/78c3758ab42be5be35f1dff0579a00d1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpagaikwad3565&label=Profile%20views&color=0e75b6&style=flat" alt="shilpagaikwad3565" /> </p>
 
