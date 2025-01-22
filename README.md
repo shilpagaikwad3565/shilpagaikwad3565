@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java full Stack**<br>
 
-- 💬 Ask me about **front end ,Database**<br>
+- 💬 Ask me about **Springboot,hibernate,core java,advance java,front end **<br>
 
 - 📫 How to reach me **shilpagaikwad79879@gmail.com**<br>
 
