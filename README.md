@@ -6,11 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpagaikwad3565&label=Profile%20views&color=0e75b6&style=flat" alt="shilpagaikwad3565" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
-- 💡 I’m proficient in **Spring Boot, Hibernate, Core Java, Advanced Java, JavaScript, Frontend Development**
-- 🔥 Passionate about building **scalable, robust, and efficient applications**
-- 💬 Ask me about **Spring Boot, Java, Hibernate, JavaScript, MySQL**
-- 📫 Reach me at **shilpagaikwad79879@gmail.com**
+## 👤 Profile Summary
+- 🌱 **Currently Learning:** Java Full Stack Development
+- 💡 **Expertise in:** Spring Boot, Hibernate, Core Java, Advanced Java, JavaScript, MySQL
+- 💬 **Ask Me About:** Spring Boot, Java, Hibernate, JavaScript, Web Development
+- 📫 **Reach Me At:** shilpagaikwad79879@gmail.com
+- ⚡ **Fun Fact:** A passionate learner who loves exploring new technologies!
 
 ---
 
@@ -26,7 +27,7 @@
 
 ---
 
-## 📌 My Projects
+## 📌 Featured Projects
 
 ### 🏥 Pharmacy Management System (E-commerce Application)
 - **Technologies:** Spring Boot, Hibernate, MySQL, Java, JavaScript, Bootstrap
@@ -43,6 +44,11 @@
 - **Technologies:** Core Java, JDBC, MySQL, HTML, CSS
 - Built an interactive system for managing **student results**
 - Created **RESTful APIs** for data retrieval and manipulation
+
+---
+
+## 🌎 Languages I Know
+- English, Hindi, Marathi
 
 ---
 
@@ -66,4 +72,4 @@
 
 ---
 
-🔥 **Keep Learning, Keep Growing!** 🚀
+☕ **If you like my work, consider buying me a coffee!** 😊
