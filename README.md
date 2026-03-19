@@ -14,7 +14,7 @@
 - 💡 **Expertise in:** C#, ASP.NET Core, MVC, Web API, Angular, SQL Server
 - 🌱 **Currently Learning:** Advanced .NET, Microservices, Azure
 - 💬 **Ask Me About:** .NET Core, Web API, Angular, SQL Server
-- 📫 **Reach Me At:** shilpagaikwad79879@gmail.com
+- 📫 **Reach Me At:** shilpagaikwad932525@gmail.com
 - ⚡ **Fun Fact:** I love building scalable and secure applications 🚀
 
 ---
