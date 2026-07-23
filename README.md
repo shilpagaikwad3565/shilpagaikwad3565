@@ -12,9 +12,8 @@
 - 💼 **Experience:** 3+ Years as Full Stack .NET Developer
 - 🔭 **Currently Working On:** ASP.NET Core Web Applications & REST APIs
 - 💡 **Expertise in:** C#, ASP.NET Core, MVC, Web API, Angular, SQL Server
-- 🌱 **Currently Learning:** Advanced .NET, Microservices, Azure
 - 💬 **Ask Me About:** .NET Core, Web API, Angular, SQL Server
-- 📫 **Reach Me At:** shilpagaikwad932525@gmail.com
+- 📫 **Reach Me At:** shilpagaikwad88888@gmail.com
 - ⚡ **Fun Fact:** I love building scalable and secure applications 🚀
 
 ---
